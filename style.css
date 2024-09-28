@@ -1,7 +1,7 @@
-  /* Importa a fonte futurista */
+  
   @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
 
-  /* Base styles */
+  
   body {
       font-family: 'Orbitron', sans-serif;
       background-color: #0d0d0d;
@@ -159,7 +159,7 @@
       padding: 20px;
       margin: 0;
       display: flex;
-      justify-content: center; /* Centraliza horizontalmente os itens */
+      justify-content: center; 
       position: relative;
       top: 20px;
   
@@ -297,15 +297,15 @@
       justify-content: center;
       align-items: stretch;
       gap: 30px;
-      margin: 200px; /* Reduced from 100px */
+      margin: 200px; 
       max-width: 1200px;
       padding: 20px;
   }
   
   .contact-container {
       display: flex;
-      height: 750px; /* Reduced from 800px */
-      max-height: 800px; /* Reduced from 800px */
+      height: 750px; 
+      max-height: 800px; 
       width: 1200px;
       background-color: rgba(0, 0, 0, 0.7);
       border-radius: 10px;
@@ -327,7 +327,7 @@
       position: relative;
       max-width: 650px;
       left: 450px;
-      top: -100px; /* Changed from -15px */
+      top: -100px; 
       right: 40px;
       padding-left: 40px;
   }
@@ -335,14 +335,14 @@
   .contact-info h3 {
       color: #0ff;
       position: relative;
-      top: 170px; /* Reduced from 280px */
+      top: 170px; 
       margin-bottom: 20px;
       font-size: 1.2em;
   }
   
   .contact-info p {
       position: relative;
-      top: 170px; /* Reduced from 280px */
+      top: 170px;
       margin-bottom: 15px;
       display: flex;
       align-items: center;
@@ -387,7 +387,7 @@
   
   .contact {
       position: relative;
-      top: 90px; /* Reduced from 200px */
+      top: 90px; 
       left: 500px;
   }
   
